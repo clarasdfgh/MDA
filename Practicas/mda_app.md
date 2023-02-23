@@ -1,0 +1,65 @@
+- 3-21 años
+
+- 40-99 discapacidad
+
+- darles autonomía a los alumnos
+- 5/6 alumnos por aula, 2 menús basales, un régimen, uno vegetariano, uno sin carne... no es menú libre, pero hay opciones para necesidades específicas
+- Apliación enfocada a los 16-21 años
+  - Algunos tienen autonomía física y otros no, tener en cuenta
+  - nivel cognitivo medio-alto, no enfocado a grado 99%
+
+
+
+- Los administradores "modifican"
+- Taller específico "taller de hogar" con muchas actividades, pretendemos que sean autónomos. Las nuevas tecnologías son motivadoras y un apoyo. Mandarles tareas desde el tutor al alumno para que las realice de forma autónoma, y recibir un check cuando sí. 
+  - Tipos de tareas: 
+    - pasar la comanda (x menus tipo a, x menus tipo b)
+      - tipo de menú + cantidad
+    - inventario en el almacén de material escolar (solicitudes desde el profesor, modificar en el almacén...)
+    - actividades secuencia de imágenes para representar órdenes (uso de una fotocopiadora, una secuencia de pictogramas, texto, vídeo... que le muestre el funcionamiento)
+- Las tareas las asigna el tutor a cada alumno
+  - **Reciben retroalimentación, esta debería ser multiformato (texto, fotos, video, audio, puntuación...)**
+  - **El "submit" de las tareas también debería ser multiformato** 
+- Afectación en la comunicación, necesita apoyo visual para realizar una tarea
+- Algunos no sufren hiperestimulacion visual, otros prefieren cuanto más limpio mejor
+  - **Fondos siempre blancos, con colores suaves, sin estímulos, lisos**
+- Roles administrador y profesor:
+  - Administrador: mete tareas, las amplia, las asigna...
+  - Profesor: acceso a solicitudes en el aula
+- Tienen horario fijo, pero debe existir la posibilidad de modificarlo por si surgen imprevistos
+  - Hecho/No hecho + campo de texto para desarrollar si es necesario (ej. no hecho porque estaba en el médico)
+
+- **Perfil de alumno, con usuario y preferencias (método de acceso, refuerzos, forma en la que se comunica la tablet...)**
+- **La aplicación se ve distinta según los roles (admin, profe, rol)**
+  - Misma app pero distinto acceso, o apps distintas? Web + movil para los admins?
+- **Modo de acceso accesible, el modelo simplemente user+pass no sirve** 
+  - El registro de los alumnos lo hacen los admin
+  - Modelo lista de fotos?
+- **Discapacidad auditiva/visual/psicomotriz a tener en cuenta**
+  - **Psicomotriz: acceso con voz, con pulsador...**
+    - Este tema es el más difícil, hay casos en los que casi seguro va a requerir asistencia del tutor
+    - Para evitar movimiento "delicado" de deslizar una lista, un modo de barrido automático, lento, icono grande que pueda seleccionar...
+- Las actividades se deben poder modificar siempre
+  - Distintos tipos de plazo: dependiente del tiempo, con fecha límite...
+- **10 alumnos con características muy distintas, la app debe ser la misma pero ser altamente customizable para que todos puedan usarla**
+- Historial con gráfica simple para ver la evaluación de las actividades
+  - Tiempo que ha tomado, si han necesitado apoyo...
+  - Lo tiene que ver también el alumno, por refuerzo positivo (no existe el refuerzo negativo)
+- Android e ios
+- Documentos consentimiento (para salidas etc.) in-app, el consentimiento lo proveen los admin
+- Algunos traen dispositivo propio, otras son del centro
+  - Así que tiene que estar a la vista la opción de cambio de usuario
+  - El centro no tiene por qué tener constancia de las tablets propias, no es parte del perfil
+- Funciones avanzadas: chat in-app profesor-alumno, pedido in-app del material en tiempo real (notificación, asignación directa de una tarea)
+  - Chat siempre profesor/admin-alumno
+  - Función fotos en el chat, audios, pictogramas...
+- **Indispensable**
+  - **Edición extensiva de las tareas con múltiples formatos y asignación de las mismas**
+  - **Chat**
+  - **Consentimiento para actividades**
+  - **Gráfica de evaluación**
+- El administrador elige la forma de acceso de cada alumno
+- La parte de profesor y admin no requiere todo este nivel de customización y accesibilidad
+- Pictogramas 4 por pantalla como mucho, pictograma con texto, fuente legible....
+  - Imagen, palabra, sonido - todas sus combinaciones
+- 
